@@ -1,0 +1,12 @@
+[
+null,
+{"battlerName":"","characterIndex":0,"characterName":"Forty Normal","classId":1,"equips":[21,2,0,0,0],"faceIndex":0,"faceName":"Forty face grade","id":1,"initialLevel":6,"maxLevel":15,"name":"佛媞","nickname":"","note":"<PickupSkill>\n<equipSlotEx:1 2 5 5 5>\n<SBIImage:40no1 tsuujou>\n<Set Sts Data>\ntreetype: 51,52,53,54\n</Set Sts Data>","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":2,"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":3,"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":4,"initialLevel":1,"maxLevel":99,"name":"班布里奇","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":5,"initialLevel":1,"maxLevel":99,"name":"麦克林","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":6,"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":7,"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":8,"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":9,"initialLevel":1,"maxLevel":99,"name":"兽人","nickname":"","note":"","profile":"","traits":[]}
+]
